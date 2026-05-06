@@ -1,0 +1,250 @@
+Mammal	Ramirez-Ibrahim	Bella	G.	Panthera leo	13	Herbivore
+Reptile	Carter-Choi	Ruby	C.	Testudines	15	Desert
+Bird	Morgan-Mason	Simba		Haliaeetus leucocephalus	12	1.5
+Mammal	Singh-Rossi	Charlie	B.	Panthera tigris	18	Herbivore
+Bird	Diaz-Hudson	Bella	J.	Haliaeetus leucocephalus	14	2.0
+Bird	Wells-Choi	Ruby	G.	Ara macao	5	3.0
+Bird	Nguyen-Ibrahim	Bella	D.	Haliaeetus leucocephalus	11	4.0
+Reptile	Cooper-Blake	Oscar	A.	Crocodylus porosus	4	Desert
+Bird	Ali-Mason	Milo		Ara macao	16	2.0
+Bird	Cooper-Hernandez	Luna	D.	Falco peregrinus	16	1.5
+Mammal	Bailey-Kennedy	Daisy	I.	Panthera leo	16	Carnivore
+Bird	Sato-Mason	Max	J.	Pelecanus onocrotalus	13	2.0
+Mammal	Sato-Matsumoto	Charlie		Panthera leo	17	Omnivore
+Mammal	Reed-Hudson	Bella	E.	Panthera leo	8	Herbivore
+Bird	Morgan-Hunter	Charlie	A.	Pelecanus onocrotalus	19	1.5
+Mammal	Brooks-Spencer	Max	J.	Panthera tigris	13	Herbivore
+Bird	Parker-Morales	Charlie		Haliaeetus leucocephalus	5	3.0
+Mammal	Sato-Spencer	Leo	A.	Giraffa camelopardalis	17	Omnivore
+Reptile	Nguyen-Gupta	Leo	C.	Pythonidae	8	Rainforest
+Bird	Harrison-Jiang	Milo	E.	Aptenodytes forsteri	14	2.5
+Reptile	Reed-Rossi	Max	E.	Chamaeleo calyptratus	13	Rainforest
+Reptile	Singh-Mason	Ruby	H.	Varanus komodoensis	13	Mountain
+Mammal	Reed-Gupta	Bella		Elephas maximus	14	Carnivore
+Mammal	Chen-Jordan	Ruby	B.	Macropus giganteus	11	Herbivore
+Mammal	Khan-Ibrahim	Daisy	H.	Macropus giganteus	2	Carnivore
+Mammal	Singh-Jordan	Simba		Panthera leo	7	Carnivore
+Bird	Reed-Ibrahim	Charlie	A.	Falco peregrinus	6	4.0
+Reptile	Nguyen-Hudson	Simba		Testudines	19	Wetlands
+Reptile	Cooper-Hernandez	Simba	C.	Pythonidae	6	Mountain
+Reptile	Kim-Hayes	Max	H.	Chamaeleo calyptratus	17	Desert
+Mammal	Ramirez-Hernandez	Luna	F.	Giraffa camelopardalis	15	Carnivore
+Mammal	Wells-West	Simba		Panthera leo	5	Carnivore
+Bird	Sato-Griffin	Simba	H.	Pelecanus onocrotalus	6	1.5
+Reptile	Singh-Choi	Oscar	I.	Chamaeleo calyptratus	6	Savannah
+Bird	Parker-Matsumoto	Luna		Aptenodytes forsteri	20	2.0
+Bird	Kim-Ibrahim	Ruby		Falco peregrinus	6	3.0
+Reptile	Carter-Hayes	Charlie	A.	Varanus komodoensis	10	Rainforest
+Bird	Chen-Gupta	Oscar		Ara macao	14	2.5
+Reptile	Parker-Mason	Bella	F.	Varanus komodoensis	10	Mountain
+Bird	Ali-Hernandez	Daisy	J.	Haliaeetus leucocephalus	15	4.0
+Bird	Harrison-Kennedy	Milo	F.	Pelecanus onocrotalus	18	3.0
+Mammal	Ramirez-Morales	Daisy	J.	Elephas maximus	2	Omnivore
+Bird	Diaz-Hernandez	Oscar	J.	Pelecanus onocrotalus	6	2.5
+Reptile	Ramirez-Garcia	Daisy	E.	Pythonidae	20	Rainforest
+Reptile	Sato-Ibrahim	Simba	E.	Testudines	11	Desert
+Reptile	Parker-Garcia	Bella	J.	Testudines	6	Desert
+Mammal	Morgan-Rossi	Charlie	B.	Panthera tigris	2	Herbivore
+Bird	Riley-Matsumoto	Max	B.	Aptenodytes forsteri	19	3.0
+Bird	Harrison-Griffin	Charlie	H.	Haliaeetus leucocephalus	9	2.0
+Bird	Brooks-Ibrahim	Max	E.	Haliaeetus leucocephalus	14	2.0
+Reptile	Bailey-Jordan	Milo	F.	Chamaeleo calyptratus	13	Wetlands
+Mammal	Patel-Hunter	Milo	D.	Elephas maximus	9	Herbivore
+Mammal	Riley-Matsumoto	Leo		Elephas maximus	19	Carnivore
+Mammal	Ramirez-Spencer	Daisy	J.	Giraffa camelopardalis	12	Carnivore
+Mammal	Patel-Hudson	Charlie	H.	Panthera tigris	11	Carnivore
+Reptile	Harrison-Choi	Bella	J.	Pythonidae	5	Savannah
+Reptile	Sato-Garcia	Charlie		Chamaeleo calyptratus	13	Savannah
+Bird	Cooper-Rossi	Luna	D.	Haliaeetus leucocephalus	12	2.5
+Bird	Parker-Rossi	Daisy	F.	Aptenodytes forsteri	19	4.0
+Bird	Wells-Ibrahim	Max	I.	Aptenodytes forsteri	13	1.5
+Bird	Nguyen-Kennedy	Daisy	B.	Aptenodytes forsteri	13	2.0
+Mammal	Patel-Kennedy	Luna	A.	Panthera tigris	14	Herbivore
+Bird	Reed-Garcia	Daisy		Ara macao	8	4.0
+Reptile	Singh-Matsumoto	Milo	D.	Pythonidae	14	Wetlands
+Mammal	Harrison-Hunter	Bella	D.	Macropus giganteus	13	Herbivore
+Mammal	Khan-Hayes	Simba	C.	Giraffa camelopardalis	1	Omnivore
+Mammal	Sato-Hunter	Luna	H.	Macropus giganteus	20	Herbivore
+Reptile	Wells-Lopez	Ruby	I.	Varanus komodoensis	8	Savannah
+Mammal	Ramirez-Hernandez	Charlie	G.	Giraffa camelopardalis	12	Herbivore
+Bird	Patel-Hunter	Luna	D.	Aptenodytes forsteri	13	2.0
+Bird	Parker-Hunter	Bella	D.	Aptenodytes forsteri	1	4.0
+Reptile	Wells-Ibrahim	Milo	G.	Pythonidae	6	Savannah
+Mammal	Nguyen-Kennedy	Bella	F.	Macropus giganteus	18	Omnivore
+Mammal	Diaz-Blake	Simba	B.	Panthera leo	14	Omnivore
+Bird	Morgan-Jordan	Daisy	D.	Falco peregrinus	10	1.5
+Bird	Patel-Ibrahim	Charlie	A.	Haliaeetus leucocephalus	16	1.5
+Reptile	Khan-Jordan	Charlie	A.	Crocodylus porosus	20	Desert
+Mammal	Kim-Hunter	Leo	I.	Panthera tigris	15	Carnivore
+Reptile	Cooper-Hernandez	Bella	I.	Testudines	14	Wetlands
+Mammal	Khan-Hayes	Oscar	D.	Panthera leo	19	Omnivore
+Mammal	Reed-Mason	Bella	B.	Panthera tigris	6	Herbivore
+Mammal	Morgan-Hudson	Luna	B.	Giraffa camelopardalis	10	Carnivore
+Reptile	Brooks-Garcia	Ruby	G.	Crocodylus porosus	19	Rainforest
+Reptile	Sato-Matsumoto	Bella	H.	Crocodylus porosus	1	Mountain
+Bird	Patel-Blake	Simba	H.	Ara macao	14	1.5
+Reptile	Ali-Kennedy	Leo	D.	Varanus komodoensis	19	Desert
+Bird	Wells-Kennedy	Luna	A.	Ara macao	8	4.0
+Bird	Brooks-Blake	Milo	B.	Pelecanus onocrotalus	16	1.5
+Mammal	Ali-West	Simba	D.	Giraffa camelopardalis	7	Herbivore
+Bird	Brooks-Hayes	Luna	D.	Ara macao	1	2.5
+Reptile	Brooks-Hudson	Bella		Varanus komodoensis	5	Wetlands
+Mammal	Brooks-Jordan	Bella	D.	Panthera tigris	7	Carnivore
+Mammal	Wells-Rossi	Leo		Panthera tigris	4	Omnivore
+Reptile	Riley-Gupta	Oscar		Crocodylus porosus	2	Wetlands
+Mammal	Morgan-Hernandez	Oscar	C.	Panthera leo	3	Carnivore
+Reptile	Cooper-Blake	Max	H.	Chamaeleo calyptratus	12	Mountain
+Mammal	Patel-West	Charlie	B.	Elephas maximus	3	Herbivore
+Mammal	Wells-Kennedy	Bella	E.	Macropus giganteus	14	Carnivore
+Mammal	Ramirez-Matsumoto	Daisy	I.	Macropus giganteus	1	Omnivore
+Bird	Ramirez-Blake	Luna	D.	Aptenodytes forsteri	18	4.0
+Reptile	Diaz-Hayes	Daisy	G.	Chamaeleo calyptratus	10	Savannah
+Reptile	Carter-Hernandez	Simba		Pythonidae	15	Wetlands
+Mammal	Morgan-Morales	Bella	D.	Macropus giganteus	11	Carnivore
+Reptile	Parker-Garcia	Max	H.	Varanus komodoensis	2	Desert
+Bird	Singh-Matsumoto	Bella	C.	Aptenodytes forsteri	8	2.5
+Mammal	Singh-Choi	Daisy	J.	Giraffa camelopardalis	12	Carnivore
+Bird	Riley-Garcia	Bella	F.	Pelecanus onocrotalus	15	2.5
+Reptile	Brooks-Blake	Ruby	I.	Crocodylus porosus	5	Mountain
+Mammal	Singh-Lopez	Bella	F.	Elephas maximus	1	Omnivore
+Bird	Parker-West	Daisy	F.	Pelecanus onocrotalus	10	4.0
+Mammal	Riley-Spencer	Ruby	C.	Macropus giganteus	14	Carnivore
+Mammal	Kim-Rossi	Oscar	C.	Macropus giganteus	4	Omnivore
+Mammal	Cooper-Ibrahim	Milo	H.	Elephas maximus	16	Carnivore
+Mammal	Khan-Choi	Ruby	B.	Macropus giganteus	7	Herbivore
+Reptile	Wells-Kennedy	Milo	D.	Pythonidae	16	Rainforest
+Mammal	Ali-Jiang	Luna	G.	Giraffa camelopardalis	4	Omnivore
+Bird	Khan-Blake	Charlie	C.	Aptenodytes forsteri	15	2.0
+Reptile	Singh-Hayes	Milo	D.	Chamaeleo calyptratus	15	Savannah
+Bird	Diaz-Blake	Daisy	C.	Aptenodytes forsteri	6	3.0
+Bird	Morgan-Hudson	Milo	B.	Ara macao	18	3.0
+Reptile	Wells-Griffin	Charlie	A.	Chamaeleo calyptratus	1	Wetlands
+Reptile	Ali-West	Milo	F.	Varanus komodoensis	12	Rainforest
+Reptile	Cooper-Griffin	Milo	G.	Pythonidae	8	Wetlands
+Mammal	Harrison-Jiang	Milo	C.	Elephas maximus	8	Carnivore
+Mammal	Morgan-Jordan	Bella	J.	Panthera tigris	8	Carnivore
+Mammal	Riley-Blake	Oscar	E.	Panthera leo	18	Herbivore
+Mammal	Nguyen-Hernandez	Bella	I.	Elephas maximus	20	Omnivore
+Bird	Ali-Rossi	Charlie	I.	Aptenodytes forsteri	4	1.5
+Mammal	Diaz-Matsumoto	Charlie	B.	Giraffa camelopardalis	20	Herbivore
+Mammal	Kim-Hunter	Bella	J.	Elephas maximus	15	Omnivore
+Reptile	Carter-Kennedy	Bella	J.	Testudines	7	Desert
+Bird	Reed-Gupta	Milo	J.	Haliaeetus leucocephalus	14	2.0
+Bird	Diaz-Spencer	Simba	E.	Pelecanus onocrotalus	17	2.5
+Mammal	Reed-Hunter	Leo	I.	Elephas maximus	3	Herbivore
+Reptile	Sato-Jiang	Milo	J.	Varanus komodoensis	14	Mountain
+Bird	Morgan-Garcia	Leo		Aptenodytes forsteri	14	2.0
+Mammal	Riley-Jiang	Luna	I.	Elephas maximus	15	Omnivore
+Bird	Harrison-Blake	Max	B.	Falco peregrinus	20	2.5
+Reptile	Cooper-Gupta	Oscar	C.	Testudines	8	Wetlands
+Reptile	Wells-Hudson	Charlie	A.	Pythonidae	5	Wetlands
+Mammal	Wells-Griffin	Milo	A.	Elephas maximus	4	Omnivore
+Reptile	Diaz-Spencer	Milo	A.	Varanus komodoensis	4	Wetlands
+Mammal	Khan-Matsumoto	Simba	F.	Macropus giganteus	18	Omnivore
+Reptile	Ali-Hayes	Charlie	B.	Testudines	16	Wetlands
+Reptile	Patel-Jordan	Charlie	G.	Chamaeleo calyptratus	11	Rainforest
+Reptile	Reed-Gupta	Daisy	J.	Testudines	13	Savannah
+Bird	Ramirez-Rossi	Max	I.	Ara macao	9	2.0
+Reptile	Diaz-Choi	Milo	B.	Varanus komodoensis	17	Rainforest
+Mammal	Ramirez-Rossi	Leo	E.	Elephas maximus	17	Carnivore
+Bird	Patel-Rossi	Simba	H.	Ara macao	1	2.0
+Bird	Harrison-Jordan	Max	E.	Pelecanus onocrotalus	13	4.0
+Bird	Kim-Jordan	Daisy		Ara macao	7	2.5
+Reptile	Chen-Hayes	Daisy	G.	Varanus komodoensis	19	Mountain
+Mammal	Riley-Garcia	Max	H.	Panthera tigris	17	Herbivore
+Reptile	Reed-Kennedy	Ruby	H.	Testudines	6	Rainforest
+Mammal	Cooper-Hernandez	Oscar	H.	Panthera leo	7	Herbivore
+Reptile	Brooks-Choi	Leo	F.	Crocodylus porosus	12	Desert
+Mammal	Riley-Hudson	Daisy	H.	Elephas maximus	15	Herbivore
+Bird	Brooks-Hernandez	Luna	F.	Haliaeetus leucocephalus	10	3.0
+Reptile	Chen-Jiang	Max	F.	Crocodylus porosus	20	Desert
+Bird	Patel-Hudson	Max	I.	Aptenodytes forsteri	13	3.0
+Reptile	Ali-Choi	Oscar		Varanus komodoensis	3	Desert
+Bird	Khan-Ibrahim	Milo	B.	Ara macao	19	3.0
+Bird	Parker-Gupta	Daisy	J.	Aptenodytes forsteri	15	1.5
+Mammal	Chen-Hayes	Ruby	E.	Panthera tigris	15	Carnivore
+Bird	Kim-West	Leo		Aptenodytes forsteri	4	4.0
+Mammal	Carter-Griffin	Max	H.	Giraffa camelopardalis	18	Omnivore
+Reptile	Chen-Garcia	Leo	J.	Crocodylus porosus	1	Desert
+Bird	Khan-Lopez	Simba	G.	Aptenodytes forsteri	16	2.5
+Bird	Diaz-Hudson	Ruby	D.	Pelecanus onocrotalus	19	4.0
+Reptile	Patel-Gupta	Charlie	F.	Chamaeleo calyptratus	2	Mountain
+Bird	Kim-Blake	Oscar	J.	Aptenodytes forsteri	20	2.0
+Mammal	Morgan-Blake	Milo		Giraffa camelopardalis	9	Omnivore
+Bird	Ali-Kennedy	Max	D.	Aptenodytes forsteri	8	4.0
+Reptile	Riley-Blake	Ruby		Varanus komodoensis	8	Rainforest
+Bird	Bailey-Blake	Luna	H.	Haliaeetus leucocephalus	2	3.0
+Bird	Riley-Jordan	Simba	J.	Falco peregrinus	3	2.5
+Mammal	Bailey-Ibrahim	Daisy	H.	Elephas maximus	10	Omnivore
+Mammal	Brooks-Kennedy	Daisy	G.	Giraffa camelopardalis	5	Omnivore
+Reptile	Ali-Hayes	Luna	B.	Varanus komodoensis	8	Wetlands
+Bird	Riley-Spencer	Ruby		Pelecanus onocrotalus	8	2.5
+Mammal	Riley-Spencer	Max	F.	Panthera leo	8	Omnivore
+Bird	Carter-Hunter	Bella	B.	Aptenodytes forsteri	7	1.5
+Bird	Cooper-Rossi	Milo	J.	Aptenodytes forsteri	11	2.5
+Mammal	Chen-Jordan	Charlie	B.	Elephas maximus	16	Herbivore
+Bird	Diaz-Mason	Daisy	F.	Haliaeetus leucocephalus	6	4.0
+Mammal	Singh-Garcia	Leo	D.	Elephas maximus	14	Omnivore
+Mammal	Khan-Garcia	Bella	J.	Panthera leo	16	Herbivore
+Reptile	Ali-West	Daisy	G.	Varanus komodoensis	5	Savannah
+Reptile	Singh-Hudson	Leo	F.	Pythonidae	13	Wetlands
+Mammal	Parker-Jiang	Bella	E.	Macropus giganteus	15	Carnivore
+Bird	Harrison-Hudson	Bella	A.	Aptenodytes forsteri	3	2.5
+Bird	Singh-Spencer	Daisy	B.	Pelecanus onocrotalus	3	1.5
+Reptile	Bailey-Jiang	Max	B.	Testudines	19	Savannah
+Reptile	Harrison-Hernandez	Leo		Varanus komodoensis	10	Wetlands
+Bird	Diaz-Matsumoto	Luna	F.	Haliaeetus leucocephalus	8	2.0
+Bird	Reed-Jiang	Simba	C.	Ara macao	3	3.0
+Reptile	Morgan-Lopez	Max	H.	Testudines	12	Rainforest
+Bird	Morgan-Blake	Leo		Aptenodytes forsteri	10	3.0
+Reptile	Parker-Griffin	Luna	E.	Crocodylus porosus	16	Rainforest
+Bird	Sato-Hernandez	Daisy	G.	Pelecanus onocrotalus	5	2.0
+Bird	Harrison-Hudson	Bella	G.	Ara macao	1	4.0
+Bird	Chen-Morales	Luna		Pelecanus onocrotalus	15	2.5
+Mammal	Parker-Choi	Max	J.	Giraffa camelopardalis	20	Herbivore
+Bird	Riley-Griffin	Milo	B.	Aptenodytes forsteri	5	4.0
+Reptile	Cooper-Hunter	Ruby	A.	Chamaeleo calyptratus	11	Mountain
+Reptile	Cooper-Hunter	Simba	J.	Varanus komodoensis	11	Savannah
+Reptile	Cooper-Choi	Charlie	F.	Pythonidae	14	Wetlands
+Reptile	Bailey-Spencer	Daisy	J.	Chamaeleo calyptratus	10	Rainforest
+Mammal	Morgan-Kennedy	Leo	F.	Panthera leo	13	Omnivore
+Mammal	Diaz-Jiang	Oscar		Panthera tigris	12	Carnivore
+Bird	Sato-Spencer	Oscar	J.	Pelecanus onocrotalus	2	4.0
+Mammal	Bailey-Blake	Oscar	D.	Elephas maximus	5	Herbivore
+Reptile	Wells-Spencer	Oscar	C.	Varanus komodoensis	17	Mountain
+Bird	Ramirez-Gupta	Simba	A.	Haliaeetus leucocephalus	10	2.5
+Bird	Chen-Kennedy	Charlie	I.	Aptenodytes forsteri	2	1.5
+Mammal	Singh-Hudson	Max	D.	Macropus giganteus	1	Herbivore
+Mammal	Diaz-Jordan	Leo	J.	Elephas maximus	14	Carnivore
+Reptile	Ramirez-Garcia	Max	J.	Crocodylus porosus	6	Rainforest
+Reptile	Khan-Hunter	Simba	J.	Crocodylus porosus	17	Rainforest
+Reptile	Parker-Jordan	Bella	A.	Crocodylus porosus	1	Desert
+Bird	Riley-Hayes	Ruby	C.	Falco peregrinus	8	2.5
+Reptile	Ali-Garcia	Luna	J.	Chamaeleo calyptratus	5	Desert
+Bird	Cooper-Mason	Max		Falco peregrinus	19	2.0
+Mammal	Ramirez-Griffin	Bella	G.	Panthera tigris	12	Carnivore
+Mammal	Harrison-Kennedy	Luna	G.	Panthera tigris	19	Omnivore
+Mammal	Wells-Kennedy	Oscar	H.	Macropus giganteus	1	Carnivore
+Mammal	Sato-Gupta	Simba	D.	Macropus giganteus	8	Omnivore
+Reptile	Sato-Hayes	Milo	C.	Testudines	8	Desert
+Reptile	Reed-Rossi	Bella	F.	Varanus komodoensis	7	Wetlands
+Mammal	Khan-Blake	Daisy	J.	Macropus giganteus	5	Herbivore
+Bird	Reed-Garcia	Simba	D.	Aptenodytes forsteri	8	3.0
+Mammal	Singh-Griffin	Luna	I.	Elephas maximus	12	Carnivore
+Reptile	Ali-Hunter	Oscar	G.	Crocodylus porosus	1	Wetlands
+Bird	Sato-Hernandez	Milo	B.	Ara macao	6	1.5
+Bird	Morgan-Kennedy	Leo		Pelecanus onocrotalus	5	2.5
+Mammal	Wells-Spencer	Max	A.	Elephas maximus	11	Omnivore
+Mammal	Parker-Griffin	Luna	F.	Giraffa camelopardalis	15	Carnivore
+Mammal	Riley-Hernandez	Daisy	G.	Panthera tigris	3	Omnivore
+Mammal	Cooper-Jiang	Ruby		Giraffa camelopardalis	11	Herbivore
+Bird	Carter-Lopez	Max	F.	Ara macao	1	2.5
+Reptile	Brooks-Rossi	Milo	I.	Varanus komodoensis	3	Rainforest
+Mammal	Kim-Morales	Leo		Panthera leo	19	Carnivore
+Bird	Cooper-Hudson	Max	B.	Aptenodytes forsteri	10	3.0
+Bird	Cooper-Choi	Milo	I.	Ara macao	16	3.0
+Reptile	Morgan-Hernandez	Bella	E.	Chamaeleo calyptratus	10	Wetlands
+Mammal	Bailey-West	Leo	F.	Panthera leo	17	Carnivore
+Mammal	Nguyen-Garcia	Milo	G.	Elephas maximus	13	Herbivore
+Bird	Reed-Hayes	Ruby	B.	Aptenodytes forsteri	16	3.0
+Bird	Riley-Hayes	Simba	A.	Ara macao	2	2.5

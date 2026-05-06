@@ -1,0 +1,58 @@
+Sato-Rossi G. Milo, Crocodylus porosus, 9, Wetlands
+Cooper-Mason E. Leo, Varanus komodoensis, 1, Savannah
+Kim-Blake C. Luna, Chamaeleo calyptratus, 2, Savannah
+Morgan-Morales G. Ruby, Testudines, 16, Wetlands
+Harrison-Matsumoto D. Leo, Pythonidae, 9, Mountain
+Morgan-Hernandez F. Bella, Chamaeleo calyptratus, 19, Savannah
+Ramirez-Choi G. Milo, Testudines, 17, Savannah
+Reed-Morales C. Oscar, Crocodylus porosus, 18, Wetlands
+Ramirez-Hunter F. Bella, Testudines, 11, Savannah
+Riley-West C. Oscar, Crocodylus porosus, 3, Desert
+Parker-Jordan F. Simba, Crocodylus porosus, 16, Rainforest
+Ramirez-Kennedy J. Leo, Pythonidae, 4, Wetlands
+Patel-Rossi J. Daisy, Chamaeleo calyptratus, 15, Rainforest
+Chen-Hudson C. Leo, Varanus komodoensis, 12, Desert
+Morgan-Hudson C. Leo, Varanus komodoensis, 4, Mountain
+Nguyen-Blake I. Ruby, Crocodylus porosus, 15, Rainforest
+Harrison-Kennedy D. Luna, Varanus komodoensis, 17, Mountain
+Chen-Jordan H. Leo, Crocodylus porosus, 9, Rainforest
+Carter-Jordan D. Simba, Testudines, 11, Desert
+Wells-Hunter C. Oscar, Testudines, 11, Mountain
+Carter-Spencer B. Simba, Varanus komodoensis, 13, Mountain
+Morgan-Choi  Max, Testudines, 14, Savannah
+Cooper-Choi B. Oscar, Varanus komodoensis, 14, Desert
+Wells-Jordan D. Milo, Chamaeleo calyptratus, 12, Savannah
+Diaz-Garcia  Bella, Chamaeleo calyptratus, 10, Savannah
+Diaz-West A. Leo, Varanus komodoensis, 5, Savannah
+Bailey-Morales E. Simba, Testudines, 20, Savannah
+Wells-Mason J. Bella, Chamaeleo calyptratus, 11, Mountain
+Nguyen-Hudson I. Bella, Crocodylus porosus, 9, Savannah
+Morgan-Garcia  Ruby, Crocodylus porosus, 5, Mountain
+Cooper-West E. Daisy, Chamaeleo calyptratus, 2, Savannah
+Brooks-Gupta H. Ruby, Pythonidae, 12, Rainforest
+Nguyen-Choi C. Bella, Crocodylus porosus, 1, Rainforest
+Sato-West B. Ruby, Crocodylus porosus, 15, Wetlands
+Sato-West I. Luna, Pythonidae, 13, Savannah
+Khan-Blake  Luna, Varanus komodoensis, 14, Savannah
+Reed-Jordan D. Bella, Crocodylus porosus, 13, Mountain
+Carter-Lopez D. Charlie, Crocodylus porosus, 2, Mountain
+Reed-Kennedy G. Max, Testudines, 6, Rainforest
+Brooks-West D. Simba, Crocodylus porosus, 19, Rainforest
+Harrison-Hernandez D. Milo, Pythonidae, 3, Rainforest
+Harrison-Hayes E. Leo, Varanus komodoensis, 10, Rainforest
+Kim-Spencer B. Daisy, Testudines, 7, Mountain
+Parker-Kennedy I. Ruby, Pythonidae, 16, Mountain
+Diaz-Ibrahim J. Milo, Varanus komodoensis, 20, Desert
+Wells-Choi F. Charlie, Crocodylus porosus, 3, Wetlands
+Ramirez-Rossi A. Oscar, Varanus komodoensis, 8, Savannah
+Khan-West E. Leo, Varanus komodoensis, 17, Desert
+Ramirez-Rossi E. Ruby, Testudines, 1, Mountain
+Harrison-Choi B. Charlie, Testudines, 5, Wetlands
+Harrison-Ibrahim J. Daisy, Crocodylus porosus, 12, Mountain
+Ali-Kennedy C. Ruby, Testudines, 1, Savannah
+Reed-Morales A. Max, Varanus komodoensis, 11, Rainforest
+Riley-Ibrahim A. Ruby, Varanus komodoensis, 14, Wetlands
+Khan-Hayes F. Charlie, Chamaeleo calyptratus, 14, Mountain
+Riley-West  Max, Varanus komodoensis, 13, Desert
+Bailey-Hudson D. Luna, Testudines, 18, Savannah
+Chen-Spencer J. Bella, Varanus komodoensis, 16, Desert

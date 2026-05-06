@@ -1,0 +1,10 @@
+Bird	Morgan-Gupta	Max	G.	Aptenodytes forsteri	2	2.0
+Bird	Riley-Ibrahim	Bella	D.	Aptenodytes forsteri	9	4.0
+Reptile	Morgan-Hunter	Milo	G.	Varanus komodoensis	3	Mountain
+Bird	Harrison-Hudson	Leo	E.	Ara macao	9	2.5
+Mammal	Cooper-Garcia	Leo	C.	Macropus giganteus	2	Carnivore
+Bird	Ramirez-Matsumoto	Luna	B.	Haliaeetus leucocephalus	13	1.5
+Bird	Singh-Griffin	Charlie	E.	Ara macao	13
+Bird	Diaz-Ibrahim	Ruby	B.	Ara macao	2	N/A
+Reptile	Diaz-Gupta	Simba	B.	Pythonidae	19	Desert
+Reptile	Kim-West	Ruby	F.	Pythonidae	16	Rainforest

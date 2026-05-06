@@ -1,0 +1,10 @@
+Reptile	Ramirez-West	Milo	H.	Pythonidae	5	Desert
+Mammal	Brooks-Lopez	Oscar	F.	Panthera tigris	6	Herbivore
+Bird	Ali-Rossi	Charlie	A.	Aptenodytes forsteri	4	2.5
+Mammal	Chen-Matsumoto	Max		Giraffa camelopardalis	5	Carnivore
+Reptile	Wells-Hudson	Bella		Crocodylus porosus	4	Mountain
+Bird	Reed-Gupta	Leo	J.	Ara macao	4	1.5
+Mammal	Ali-Matsumoto	Simba	B.	Macropus giganteus	7	Omnivore
+Bird	Wells-Hudson	Leo	E.	Haliaeetus leucocephalus	17	2.5
+Reptile	Cooper-Jiang	Leo	C.	Testudines	13	Rainforest
+Reptile	Kim-Gupta	Bella	D.	Chamaeleo calyptratus	3	Mountain

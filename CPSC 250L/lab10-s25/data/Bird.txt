@@ -1,0 +1,81 @@
+Harrison-Spencer  Simba, Aptenodytes forsteri, 19, 4.0
+Wells-Jordan B. Leo, Pelecanus onocrotalus, 10, 2.0
+Nguyen-Spencer A. Bella, Pelecanus onocrotalus, 1, 2.0
+Cooper-Mason C. Daisy, Haliaeetus leucocephalus, 18, 1.5
+Kim-Matsumoto E. Milo, Pelecanus onocrotalus, 15, 3.0
+Wells-Mason G. Leo, Aptenodytes forsteri, 20, 2.0
+Sato-Morales J. Simba, Ara macao, 15, 4.0
+Morgan-Blake F. Charlie, Pelecanus onocrotalus, 15, 2.5
+Ali-Hudson A. Luna, Pelecanus onocrotalus, 16, 2.5
+Carter-Kennedy  Leo, Haliaeetus leucocephalus, 11, 4.0
+Khan-Gupta F. Leo, Aptenodytes forsteri, 15, 1.5
+Wells-Hayes G. Milo, Haliaeetus leucocephalus, 13, 1.5
+Carter-Spencer E. Charlie, Ara macao, 17, 3.0
+Harrison-Hayes B. Simba, Haliaeetus leucocephalus, 16, 2.0
+Patel-Hernandez F. Ruby, Haliaeetus leucocephalus, 2, 3.0
+Reed-West F. Max, Aptenodytes forsteri, 12, 2.5
+Kim-Jordan B. Simba, Ara macao, 13, 4.0
+Riley-Spencer C. Max, Falco peregrinus, 20, 3.0
+Ramirez-Hudson C. Luna, Pelecanus onocrotalus, 16, 3.0
+Sato-Jiang A. Luna, Pelecanus onocrotalus, 12, 2.0
+Brooks-Lopez  Bella, Haliaeetus leucocephalus, 1, 4.0
+Wells-Mason C. Oscar, Aptenodytes forsteri, 17, 1.5
+Carter-Morales A. Max, Aptenodytes forsteri, 2, 3.0
+Kim-Garcia A. Leo, Aptenodytes forsteri, 8, 3.0
+Sato-Lopez  Milo, Pelecanus onocrotalus, 15, 2.5
+Morgan-Spencer G. Luna, Aptenodytes forsteri, 20, 2.0
+Carter-Morales  Luna, Ara macao, 2, 4.0
+Parker-Hernandez A. Milo, Pelecanus onocrotalus, 18, 2.5
+Harrison-Garcia  Leo, Pelecanus onocrotalus, 3, 2.0
+Parker-Hudson F. Luna, Pelecanus onocrotalus, 6, 2.0
+Kim-Kennedy F. Daisy, Aptenodytes forsteri, 13, 2.0
+Ali-Hunter A. Bella, Falco peregrinus, 10, 3.0
+Morgan-Choi I. Milo, Aptenodytes forsteri, 3, 1.5
+Sato-Mason B. Charlie, Haliaeetus leucocephalus, 1, 3.0
+Khan-Lopez E. Bella, Ara macao, 8, 3.0
+Sato-Spencer D. Bella, Aptenodytes forsteri, 9, 2.5
+Diaz-Blake J. Ruby, Haliaeetus leucocephalus, 8, 2.5
+Patel-Matsumoto B. Charlie, Haliaeetus leucocephalus, 16, 3.0
+Diaz-Rossi  Milo, Aptenodytes forsteri, 6, 3.0
+Diaz-West J. Milo, Pelecanus onocrotalus, 5, 1.5
+Nguyen-Hayes B. Luna, Aptenodytes forsteri, 4, 2.5
+Ali-Rossi D. Max, Aptenodytes forsteri, 1, 2.5
+Morgan-Hunter C. Milo, Haliaeetus leucocephalus, 2, 4.0
+Bailey-Blake H. Max, Haliaeetus leucocephalus, 10, 2.0
+Ali-Garcia J. Max, Falco peregrinus, 7, 2.0
+Khan-Griffin H. Luna, Pelecanus onocrotalus, 9, 4.0
+Carter-Griffin E. Luna, Haliaeetus leucocephalus, 3, 2.0
+Bailey-Jiang A. Luna, Haliaeetus leucocephalus, 15, 2.0
+Ali-Morales C. Milo, Aptenodytes forsteri, 11, 4.0
+Carter-Griffin  Leo, Aptenodytes forsteri, 9, 4.0
+Cooper-Jordan H. Bella, Aptenodytes forsteri, 4, 4.0
+Morgan-Mason D. Charlie, Falco peregrinus, 13, 2.0
+Sato-Spencer E. Luna, Ara macao, 17, 2.0
+Riley-Griffin B. Luna, Pelecanus onocrotalus, 18, 1.5
+Ramirez-Garcia  Charlie, Pelecanus onocrotalus, 18, 1.5
+Chen-Hayes A. Simba, Haliaeetus leucocephalus, 13, 1.5
+Riley-Ibrahim J. Luna, Pelecanus onocrotalus, 14, 1.5
+Cooper-Morales J. Simba, Pelecanus onocrotalus, 9, 2.5
+Brooks-Lopez D. Charlie, Pelecanus onocrotalus, 7, 3.0
+Harrison-Blake G. Ruby, Falco peregrinus, 6, 2.0
+Riley-Garcia A. Ruby, Haliaeetus leucocephalus, 13, 3.0
+Riley-Mason C. Ruby, Aptenodytes forsteri, 6, 2.0
+Ramirez-Gupta F. Oscar, Haliaeetus leucocephalus, 11, 2.5
+Morgan-Jiang I. Milo, Aptenodytes forsteri, 2, 4.0
+Bailey-Kennedy G. Max, Ara macao, 11, 3.0
+Ramirez-Gupta E. Daisy, Ara macao, 8, 1.5
+Singh-Gupta H. Bella, Ara macao, 9, 3.0
+Riley-Kennedy I. Leo, Haliaeetus leucocephalus, 8, 3.0
+Nguyen-Garcia C. Ruby, Pelecanus onocrotalus, 19, 3.0
+Nguyen-Garcia B. Daisy, Aptenodytes forsteri, 4, 4.0
+Diaz-Rossi D. Max, Falco peregrinus, 10, 4.0
+Parker-Hayes J. Bella, Pelecanus onocrotalus, 10, 3.0
+Harrison-Mason F. Daisy, Pelecanus onocrotalus, 9, 4.0
+Riley-Jiang I. Ruby, Haliaeetus leucocephalus, 10, 2.0
+Kim-Mason B. Leo, Falco peregrinus, 2, 2.0
+Harrison-Choi J. Luna, Haliaeetus leucocephalus, 2, 2.5
+Patel-Blake E. Charlie, Aptenodytes forsteri, 2, 2.5
+Kim-Choi D. Luna, Aptenodytes forsteri, 3, 2.5
+Bailey-Kennedy B. Ruby, Aptenodytes forsteri, 15, 2.5
+Kim-Blake J. Max, Pelecanus onocrotalus, 3, 4.0
+Brooks-Jordan  Max, Ara macao, 6, 2.0

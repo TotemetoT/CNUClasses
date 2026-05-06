@@ -1,0 +1,61 @@
+Riley-Matsumoto F. Daisy, Panthera tigris, 15, Carnivore
+Chen-Blake C. Max, Macropus giganteus, 5, Herbivore
+Riley-West G. Charlie, Macropus giganteus, 9, Omnivore
+Carter-Lopez J. Daisy, Panthera tigris, 20, Herbivore
+Nguyen-Griffin A. Oscar, Panthera tigris, 12, Omnivore
+Harrison-Choi C. Daisy, Panthera tigris, 5, Carnivore
+Diaz-Ibrahim A. Ruby, Panthera leo, 13, Carnivore
+Cooper-Spencer  Charlie, Elephas maximus, 8, Omnivore
+Ali-Kennedy H. Charlie, Giraffa camelopardalis, 20, Carnivore
+Cooper-Gupta  Max, Macropus giganteus, 1, Omnivore
+Chen-Spencer  Ruby, Panthera tigris, 18, Omnivore
+Bailey-Hayes J. Max, Macropus giganteus, 13, Omnivore
+Patel-Jordan E. Max, Elephas maximus, 10, Carnivore
+Singh-Spencer H. Luna, Elephas maximus, 15, Omnivore
+Khan-Hunter  Ruby, Panthera tigris, 13, Herbivore
+Singh-Hernandez I. Oscar, Giraffa camelopardalis, 12, Omnivore
+Ali-Hernandez I. Luna, Giraffa camelopardalis, 1, Herbivore
+Harrison-Hunter B. Max, Macropus giganteus, 13, Carnivore
+Wells-Hunter B. Ruby, Giraffa camelopardalis, 1, Carnivore
+Diaz-Morales B. Charlie, Elephas maximus, 4, Herbivore
+Bailey-Rossi  Simba, Giraffa camelopardalis, 17, Omnivore
+Wells-Jiang C. Simba, Macropus giganteus, 8, Herbivore
+Reed-Spencer B. Milo, Panthera leo, 6, Carnivore
+Riley-Hayes D. Daisy, Panthera leo, 12, Carnivore
+Brooks-Ibrahim J. Bella, Elephas maximus, 16, Omnivore
+Wells-Spencer A. Luna, Macropus giganteus, 6, Carnivore
+Kim-Hayes H. Ruby, Elephas maximus, 4, Herbivore
+Singh-Hudson  Ruby, Elephas maximus, 11, Omnivore
+Kim-Gupta I. Oscar, Elephas maximus, 18, Carnivore
+Diaz-Choi A. Oscar, Giraffa camelopardalis, 12, Herbivore
+Ramirez-Rossi G. Simba, Panthera leo, 8, Carnivore
+Chen-Rossi C. Ruby, Panthera tigris, 15, Herbivore
+Nguyen-Hudson I. Charlie, Panthera tigris, 8, Carnivore
+Diaz-Lopez I. Bella, Panthera tigris, 3, Carnivore
+Diaz-Mason E. Oscar, Giraffa camelopardalis, 3, Herbivore
+Ali-Hernandez A. Simba, Macropus giganteus, 14, Carnivore
+Patel-Hayes J. Max, Panthera tigris, 17, Herbivore
+Harrison-Choi G. Simba, Giraffa camelopardalis, 18, Omnivore
+Cooper-Garcia E. Bella, Macropus giganteus, 4, Carnivore
+Riley-Kennedy I. Daisy, Giraffa camelopardalis, 19, Herbivore
+Brooks-Lopez D. Simba, Elephas maximus, 20, Omnivore
+Khan-Matsumoto F. Luna, Panthera tigris, 20, Herbivore
+Chen-Rossi G. Simba, Elephas maximus, 4, Herbivore
+Morgan-Hunter D. Ruby, Panthera tigris, 13, Carnivore
+Nguyen-West  Max, Macropus giganteus, 1, Herbivore
+Singh-Hunter F. Max, Panthera tigris, 18, Herbivore
+Ramirez-Kennedy I. Charlie, Panthera tigris, 9, Omnivore
+Ali-Blake B. Oscar, Giraffa camelopardalis, 14, Herbivore
+Brooks-Kennedy F. Charlie, Giraffa camelopardalis, 10, Herbivore
+Sato-Griffin F. Max, Panthera leo, 6, Carnivore
+Diaz-Hernandez E. Max, Giraffa camelopardalis, 9, Carnivore
+Nguyen-Morales C. Ruby, Giraffa camelopardalis, 11, Herbivore
+Khan-Hayes F. Leo, Elephas maximus, 18, Carnivore
+Carter-Kennedy G. Bella, Panthera tigris, 9, Carnivore
+Brooks-Matsumoto B. Charlie, Giraffa camelopardalis, 6, Omnivore
+Morgan-Hunter J. Max, Panthera leo, 11, Carnivore
+Chen-Ibrahim A. Milo, Panthera leo, 12, Carnivore
+Nguyen-Rossi G. Leo, Panthera tigris, 3, Herbivore
+Riley-Ibrahim E. Bella, Macropus giganteus, 14, Herbivore
+Bailey-Spencer E. Oscar, Panthera leo, 13, Herbivore
+Khan-Garcia I. Ruby, Elephas maximus, 8, Herbivore
