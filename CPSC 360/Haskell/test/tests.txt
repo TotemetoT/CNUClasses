@@ -1,0 +1,81 @@
+----- grouped tests ------
+
+
+(counting_tuples [] == []):(counting_tuples "a" == [('a',1)]):(counting_tuples "89 88 98" == [('8',4),('9',2),(' ',2),('8',4),('8',4),(' ',2),('9',2),('8',4)]):(counting_tuples [4,2,3,4,0,1,4,6] == [(4,3),(2,1),(3,1),(4,3),(0,1),(1,1),(4,3),(6,1)]):(counting_tuples "abba" == [('a',2),('b',2),('b',2),('a',2)]):(counting_tuples [2.1,2.1,3.14,1.2,-1.2,0,1.2] == [(2.1,2),(2.1,2),(3.14,1),(1.2,2),(-1.2,1),(0,1),(1.2,2)]):(counting_tuples ['a','b','r','a','c','a','d','a','b','r','a'] == [('a',5),('b',2),('r',2),('a',5),('c',1),('a',5),('d',1),('a',5),('b',2),('r',2),('a',5)]):(counting_tuples "hocus pocus" == [('h',1),('o',2),('c',2),('u',2),('s',2),(' ',1),('p',1),('o',2),('c',2),('u',2),('s',2)]):(counting_tuples "yummy" == [('y',2),('u',1),('m',2),('m',2),('y',2)]):(counting_tuples "ac/dc" == [('a',1),('c',2),('/',1),('d',1),('c',2)]):[]
+
+(descending [] == True):(descending "a" == True):(descending [8,8] == True):(descending [42, 9, 9, 7] == True):(descending "ymca" == True):(descending [42.1, 6.43, 3.14] == True):(descending [11, 5, 3, 4] == False):(descending "utopia" == False):(descending "yummy" == False):(descending "zoom" == True):[]
+
+(divs (-42) == []):(divs 0 == []):(divs 1 == [1]):(divs 2 == [1,2]):(divs 7 == [1,7]):(divs 10 == [1,2,5,10]):(divs 42 == [1,2,3,6,7,14,21,42]):(divs 121 == [1,11,121]):[]
+
+(isPrime (-42) == False):(isPrime (-1) == False):(isPrime 0 == False):(isPrime 2 == True):(isPrime 3 == True):(isPrime 4 == False):(isPrime 9 == False):(isPrime 11 == True):(isPrime 17 == True):(isPrime 42 == False):(isPrime 43 == True):(isPrime 121 == False):(isPrime 143 == False):(isPrime 151 == True):(isPrime 169 == False):(isPrime 997 == True):[]
+
+(take 5 fakePrimes == [121,143,169,187,209]):(last (take 1 fakePrimes) == 121):(last (take 10 fakePrimes) == 299):(last (take 15 fakePrimes) == 377):(last (take 42 fakePrimes) == 737):[]
+
+(operate [] [] == []):(operate [3] [] == []):(operate [] [(*)] == []):(operate [3] [(*)] == [3]):(operate [3,-2] [(*)] == [-6]):(operate [3,-2] [(+),(-)] == [1,5]):(operate [7,-3,-4,0] [(*),(+)] == [0,0]):(operate [4,3,2,1] [(*),(-),(^)] == [24,-2,4096]):(operate [100,-5,2] [(/),(+),(-)] == [-10.0,97.0,103.0]):(operate [9,8,7,6,5,4,3,2,1] [(+),(-),(*),(/)] == [45.0,-27.0,362880.0,2.232142857142857e-4]):[]
+
+----- individual tests (same as above) ------
+
+counting_tuples [] == []
+counting_tuples "a" == [('a',1)]
+counting_tuples "89 88 98" == [('8',4),('9',2),(' ',2),('8',4),('8',4),(' ',2),('9',2),('8',4)]
+counting_tuples [4,2,3,4,0,1,4,6] == [(4,3),(2,1),(3,1),(4,3),(0,1),(1,1),(4,3),(6,1)]
+counting_tuples "abba" == [('a',2),('b',2),('b',2),('a',2)]
+counting_tuples [2.1,2.1,3.14,1.2,-1.2,0,1.2] == [(2.1,2),(2.1,2),(3.14,1),(1.2,2),(-1.2,1),(0,1),(1.2,2)]
+counting_tuples ['a','b','r','a','c','a','d','a','b','r','a'] == [('a',5),('b',2),('r',2),('a',5),('c',1),('a',5),('d',1),('a',5),('b',2),('r',2),('a',5)]
+counting_tuples "hocus pocus" == [('h',1),('o',2),('c',2),('u',2),('s',2),(' ',1),('p',1),('o',2),('c',2),('u',2),('s',2)]
+counting_tuples "yummy" == [('y',2),('u',1),('m',2),('m',2),('y',2)]
+counting_tuples "ac/dc" == [('a',1),('c',2),('/',1),('d',1),('c',2)]
+
+descending [] == True
+descending "a" == True
+descending [8,8] == True
+descending [42, 9, 9, 7] == True
+descending "ymca" == True
+descending [42.1, 6.43, 3.14] == True
+descending [11, 5, 3, 4] == False
+descending "utopia" == False
+descending "yummy" == False
+descending "zoom" == True
+
+divs (-42) == []
+divs 0 == []
+divs 1 == [1]
+divs 2 == [1,2]
+divs 7 == [1,7]
+divs 10 == [1,2,5,10]
+divs 42 == [1,2,3,6,7,14,21,42]
+divs 121 == [1,11,121]
+
+isPrime (-42) == False
+isPrime (-1) == False
+isPrime 0 == False
+isPrime 2 == True
+isPrime 3 == True
+isPrime 4 == False
+isPrime 9 == False
+isPrime 11 == True
+isPrime 17 == True
+isPrime 42 == False
+isPrime 43 == True
+isPrime 121 == False
+isPrime 143 == False
+isPrime 151 == True
+isPrime 169 == False
+isPrime 997 == True
+
+take 5 fakePrimes == [121,143,169,187,209]
+last (take 1 fakePrimes) == 121
+last (take 10 fakePrimes) == 299
+last (take 15 fakePrimes) == 377
+last (take 42 fakePrimes) == 737
+
+operate [] [] == []
+operate [3] [] == []
+operate [] [(*)] == []
+operate [3] [(*)] == [3]
+operate [3,-2] [(*)] == [-6]
+operate [3,-2] [(+),(-)] == [1,5]
+operate [7,-3,-4,0] [(*),(+)] == [0,0]
+operate [4,3,2,1] [(*),(-),(^)] == [24,-2,4096]
+operate [100,-5,2] [(/),(+),(-)] == [-10.0,97.0,103.0]
+operate [9,8,7,6,5,4,3,2,1] [(+),(-),(*),(/)] == [45.0,-27.0,362880.0,2.232142857142857e-4]
