@@ -1,0 +1,11 @@
+# Name, diameter (km), mass (kg) http://planetfacts.org/
+# Yes, I'm including Pluto as did http://planetfacts.org/ even if tiny
+Mercury,4879.4, 3.3e23
+Venus, 12104, 4.87e24
+Earth, 12756, 5.98e24
+Mars, 6787, 6.42e23
+Jupiter, 142800,1.90e27
+Saturn, 120660, 5.69e26
+Uranus, 51118, 8.68e25
+Neptune, 49528, 1.02e26
+Pluto, 2300, 1.29e22

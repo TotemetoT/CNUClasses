@@ -1,0 +1,18 @@
+Dear students,
+
+You should work on practicing coding more.
+
+You can use CodingBat (www.codingbat.com) for practice of the fundamentals.
+You can also try the Challenge exercises in ZyBooks, or better yet make up your own problems.
+
+Make sure you can do all of the weekly exercises without help.
+If you get help to submit, then try it again on your own (just re-fork to your personal group).
+
+Regardless of where you start, you should work to improve your coding skills throughout the semester.
+Now is the time to focus on improving your skills; you are setting your foundation for latter success.
+
+I'm here to help, but you need to do the work of practicing your skills.
+
+Best regards,
+
+You beloved CPSC 250 instructor
