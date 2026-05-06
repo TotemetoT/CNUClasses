@@ -9,3 +9,6 @@ This class is the second level to the CPSC 150 course, Introduction to Programmi
  - Python GUI
  - Binary in Python
  - Recursion
+ - MatPlotLib/Plots
+ - Numpy
+ - PyGame
